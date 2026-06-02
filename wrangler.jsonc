@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "salss-officials",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "salsssdebe-db",
+			"database_id": "d9b92f72-dfb4-4b1e-9938-35a375b89ebb"
+		}
+	]
+}
